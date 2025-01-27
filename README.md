@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Supun Sandakelum Koralage.
 - 👀 I’m interested in New Technologies.
-- 🌱 I graduated with a BSc (Hons) in Computer Science & Software Engineering degree from SLIIT.
-- 💞️ I'm currently working as an Associate Software Engineer.
+- 🌱 I graduated with a BSc (Hons) in Computer Science & Software Engineering from SLIIT.
+- 💞️ I'm currently working as a Software Engineer.
 - 📫 How to reach me: [LinkedIn](www.linkedin.com/in/supun-koralage-661785206)
 - ⚡ Hobby: Playing and Watching Cricket.
